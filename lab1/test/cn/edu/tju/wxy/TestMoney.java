@@ -2,7 +2,7 @@ package cn.edu.tju.wxy;
 
 import static org.junit.Assert.*;
 
-import cn.ecu.tju.wxy.Money;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

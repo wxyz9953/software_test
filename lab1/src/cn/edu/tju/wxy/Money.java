@@ -1,4 +1,4 @@
-package cn.ecu.tju.wxy;
+package cn.edu.tju.wxy;
 
 
 public class Money {
