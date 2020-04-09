@@ -13,11 +13,9 @@ public class Main {
 
 
         List<Thread> threadList = getThreadList(readResult, 4);
-
         for (Thread t : threadList) {
             t.start();
         }
-
         for (Thread t : threadList) {
             t.join();
         }
